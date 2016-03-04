@@ -1,0 +1,24 @@
+.headingColor{
+   color: #b8ccd0;
+}
+
+.panelColor{
+  background-color: whitesmoke;
+}
+
+.headingColor2{
+	color: #a0b4b8;
+
+}
+
+.paragraph{
+	font-size:15px;
+	font-style: italic;
+	font-family: 'serif';
+}
+
+.test-heading{
+	font-size: 19px;
+	font-style: italic;
+	font-family: 'serif';
+}
